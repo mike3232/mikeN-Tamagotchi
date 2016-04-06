@@ -1,0 +1,6 @@
+c:\users\michael nader\documents\visual studio 2015\Projects\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe.config
+c:\users\michael nader\documents\visual studio 2015\Projects\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe
+c:\users\michael nader\documents\visual studio 2015\Projects\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.pdb
+c:\users\michael nader\documents\visual studio 2015\Projects\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csprojResolveAssemblyReference.cache
+c:\users\michael nader\documents\visual studio 2015\Projects\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.exe
+c:\users\michael nader\documents\visual studio 2015\Projects\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.pdb
