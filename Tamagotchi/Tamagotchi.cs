@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Tamagotchi  // idea petting and feeding cause values to go up
+    //trying to Kill!! Tamagotchi
 {
     class Tamagotchi
     {
@@ -54,6 +55,7 @@ namespace Tamagotchi  // idea petting and feeding cause values to go up
             Random rnd = new Random();
             Happiness = Happiness - rnd.Next(5); //rnd.Next will return a single integer by puttin
             // a "5" random numbers will be between 0 to 5  
+            
             // Could also write rnd.Next(1,10); 1 starting value 10 ending value
             Fullness = Fullness - rnd.Next(10);
             Console.WriteLine(Happiness);
